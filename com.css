@@ -1,0 +1,6 @@
+div p{
+    background-color: azure;
+}
+div>p{
+    font-style: italic;
+}

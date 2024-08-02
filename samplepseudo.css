@@ -1,0 +1,18 @@
+a:link
+{
+
+    background-color: burlywood;
+    color:blue;
+}
+a:visited
+{
+    color:chartreuse;
+}
+a:hover
+{
+    background-color: crimson;
+}
+a.focus
+{
+    background-color:turquoise;
+}
